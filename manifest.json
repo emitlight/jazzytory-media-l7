@@ -1,0 +1,62 @@
+[
+ {
+  "moduleId": "m-l7-01-solo-piano",
+  "title": "솔로 피아노: 세 층을 동시에",
+  "durationSec": 1220.6175,
+  "version": 1,
+  "bgm": "Music: \"Backbay Lounge\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 96345659,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l7"
+ },
+ {
+  "moduleId": "m-l7-02-stride",
+  "title": "스트라이드와 좌수 전통",
+  "durationSec": 1143.1566,
+  "version": 1,
+  "bgm": "Music: \"Apero Hour\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 88102134,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l7"
+ },
+ {
+  "moduleId": "m-l7-03-rubato-ballad",
+  "title": "루바토 발라드와 인트로",
+  "durationSec": 1205.5489,
+  "version": 1,
+  "bgm": "Music: \"Samba Isobel\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 93977704,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l7"
+ },
+ {
+  "moduleId": "m-l7-04-trio-comping",
+  "title": "트리오에서 컴핑하기",
+  "durationSec": 1159.1855,
+  "version": 1,
+  "bgm": "Music: \"Sidewalk Shade - slower\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 88114253,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l7"
+ },
+ {
+  "moduleId": "m-l7-05-interplay",
+  "title": "트레이딩과 인터플레이",
+  "durationSec": 1071.1157,
+  "version": 1,
+  "bgm": "Music: \"George Street Shuffle\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 81383569,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l7"
+ },
+ {
+  "moduleId": "m-l7-06-arrangement",
+  "title": "셀프 어레인지먼트",
+  "durationSec": 1225.5792,
+  "version": 1,
+  "bgm": "Music: \"Deuces\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 92922910,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l7"
+ }
+]
